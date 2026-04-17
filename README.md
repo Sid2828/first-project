@@ -1,4 +1,4 @@
 # first-project
 This is my first Git repository.
 <br>
-Author-Siddharth Pingale
+Author-Siddharth Pingale(SPIT college)
